@@ -28,24 +28,19 @@
                     <div class="col-lg-8 content about-content">
                         <h2 class="about-title">About Me</h2>
                         <p class="fst-italic">
-                            Saya adalah lulusan baru dari <span class="highlight">Politeknik Negeri Indramayu</span>,
-                            jurusan <span class="highlight">Teknik Informatika</span>, dengan
-                            IPK <span class="highlight">3,44</span>. Selama perkuliahan, saya aktif dalam organisasi
-                            yang
-                            telah mengasah kemampuan
-                            <span class="highlight">komunikasi</span>, <span class="highlight">kerja tim</span>, dan
-                            <span class="highlight">kepemimpinan</span>.
-                            Berpengalaman dalam pengembangan aplikasi mobile dan web menggunakan framework <span
-                                class="highlight">Flutter</span> dan <span class="highlight">Laravel</span>,
-                            saya mampu membangun aplikasi yang fungsional dan responsif. Saya dikenal sebagai individu
-                            yang
-                            mampu <span class="highlight">belajar dengan cepat</span> dan
-                            beradaptasi pada situasi baru, baik bekerja dalam tim maupun secara mandiri untuk
-                            menyelesaikan
-                            proyek tepat waktu.
-                            Dengan semangat untuk terus <span class="highlight">belajar teknologi baru</span>, saya siap
-                            berkontribusi dalam tim untuk mencapai tujuan bersama dan memberikan
-                            <span class="highlight">solusi inovatif</span> yang dapat memenuhi kebutuhan pengguna.
+                            I am a fresh graduate from <span class="highlight">Politeknik Negeri Indramayu</span>, majoring
+                            in <span class="highlight">Information Technology</span>, with a GPA of <span
+                                class="highlight">3.44</span>. During my studies, I actively participated in organizations
+                            that honed my <span class="highlight">communication</span>, <span
+                                class="highlight">teamwork</span>, and <span class="highlight">leadership</span> skills.
+                            Experienced in developing mobile and web applications using frameworks such as <span
+                                class="highlight">Flutter</span> and <span class="highlight">Laravel</span>, I have the
+                            ability to create functional and responsive applications. I am recognized as an individual who
+                            can <span class="highlight">learn quickly</span> and adapt to new situations, whether working in
+                            a team or independently to deliver projects on time.
+                            With a passion for continuously <span class="highlight">learning new technologies</span>, I am
+                            ready to contribute to a team to achieve common goals and deliver <span
+                                class="highlight">innovative solutions</span> that meet user needs.
                         </p>
                     </div>
                 </div>

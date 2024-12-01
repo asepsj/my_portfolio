@@ -54,9 +54,14 @@
                             <div>
                                 <h3>Social Profiles</h3>
                                 <div class="social-links">
+                                    <!-- LinkedIn -->
                                     <a href="https://www.linkedin.com/in/asep-saefuddin-zuhri-a9b6492b0/" target="_blank"
                                         rel="noopener noreferrer">
                                         <i class="bi bi-linkedin"></i>
+                                    </a>
+                                    <!-- GitHub -->
+                                    <a href="https://github.com/asepsj" target="_blank" rel="noopener noreferrer">
+                                        <i class="bi bi-github"></i>
                                     </a>
                                 </div>
                             </div>

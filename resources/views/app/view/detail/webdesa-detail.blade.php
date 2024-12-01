@@ -64,13 +64,14 @@
                         <div class="portfolio-description" data-aos="fade-up" data-aos-delay="200">
                             <h2 class="about-title">Web Desa</h2>
                             <p>
-                                Pada proyek ini, saya mengembangkan sebuah <strong class="highlight">website desa</strong>
-                                sederhana menggunakan <strong class="highlight">Laravel</strong> sebagai framework utama
-                                untuk backend dan rontend. Website ini dirancang untuk membantu pemerintah desa menyebarkan
-                                <strong class="highlight">informasi</strong>, seperti <strong class="highlight">berita
-                                    desa</strong>, <strong class="highlight">pengumuman</strong>, serta menyediakan fitur
-                                <strong class="highlight">pengaduan masyarakat</strong> yang memungkinkan warga menyampaikan
-                                keluhan atau masukan secara mudah dan efisien.
+                                In this project, I developed a simple <strong class="highlight">village website</strong>
+                                using <strong class="highlight">Laravel</strong> as the primary framework for both the
+                                backend and frontend. The website is designed to assist village administrations in
+                                disseminating <strong class="highlight">information</strong>, such as <strong
+                                    class="highlight">village news</strong>, <strong
+                                    class="highlight">announcements</strong>, and providing a <strong
+                                    class="highlight">community complaint feature</strong> that allows residents to easily
+                                and efficiently submit feedback or complaints.
                             </p>
                         </div>
                         <div class="portfolio-info" data-aos="fade-up" data-aos-delay="300">

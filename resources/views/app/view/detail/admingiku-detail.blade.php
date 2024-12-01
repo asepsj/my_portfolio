@@ -64,28 +64,28 @@
                         <div class="portfolio-description" data-aos="fade-up" data-aos-delay="200">
                             <h2 class="about-title">Admin Giku</h2>
                             <p>
-                                Proyek <strong class="highlight">Admin Giku</strong> adalah bagian dari ekosistem <strong
-                                    class="highlight">Giku App</strong>, yang berfungsi sebagai platform manajemen untuk
-                                dokter dan staf klinik. Dibangun menggunakan <strong class="highlight">Laravel</strong>,
-                                aplikasi ini memungkinkan dokter untuk mengatur jadwal praktek mereka secara mandiri,
-                                memantau antrian pasien, serta mengelola antrian pasien dengan lebih mudah.
+                                The <strong class="highlight">Admin Giku</strong> project is part of the <strong
+                                    class="highlight">Giku App</strong> ecosystem, serving as a management platform for
+                                doctors and clinic staff. Built using <strong class="highlight">Laravel</strong>, this
+                                application allows doctors to independently manage their practice schedules, monitor patient
+                                queues, and handle patient queues more efficiently.
                             </p>
                             <p>
-                                Dengan integrasi <strong class="highlight">Firebase</strong>, Admin Giku membantu
-                                meningkatkan efisiensi operasional klinik sekaligus mempermudah pengelolaan data pasien.
-                                Semua data, termasuk antrian pasien dan jadwal dokter, disimpan secara real-time menggunakan
-                                <strong class="highlight">Firebase Realtime Database</strong>.
+                                With <strong class="highlight">Firebase</strong> integration, Admin Giku enhances clinic
+                                operational efficiency while simplifying patient data management. All data, including
+                                patient queues and doctor schedules, is stored in real-time using <strong
+                                    class="highlight">Firebase Realtime Database</strong>.
                             </p>
                         </div>
                         <div class="portfolio-info" data-aos="fade-up" data-aos-delay="300">
-                            <h3>Informasi Proyek</h3>
+                            <h3>Project Information</h3>
                             <ul>
-                                <li><strong>Kategori</strong>: Web Application</li>
-                                <li><strong>Repository Proyek</strong>: <a
+                                <li><strong>Category</strong>: Web Application</li>
+                                <li><strong>Project Repository</strong>: <a
                                         href="https://github.com/asepsj/admin_giku">https://github.com/asepsj/admin_giku</a>
                                 </li>
                                 <li>
-                                    <strong>Teknologi yang Digunakan</strong>:
+                                    <strong>Technologies Used</strong>:
                                     <ul>
                                         <li>Laravel</li>
                                         <li>Firebase Realtime Database</li>

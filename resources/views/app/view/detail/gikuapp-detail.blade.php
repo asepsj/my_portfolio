@@ -64,20 +64,19 @@
                         <div class="portfolio-description" data-aos="fade-up" data-aos-delay="200">
                             <h2 class="about-title">Giku App</h2>
                             <p>
-                                Saya mengembangkan <strong class="highlight">Giku App</strong> menggunakan <strong
-                                    class="highlight">Flutter</strong>
-                                sebagai framework frontend dan <strong class="highlight">Firebase</strong> sebagai backend.
-                                Aplikasi ini dirancang untuk sistem antrian di klinik gigi, di mana pasien dapat mendaftar
-                                antrian secara online, melihat jadwal dokter, dan mendapatkan notifikasi tentang status
-                                antrian.
+                                I developed the <strong class="highlight">Giku App</strong> using <strong
+                                    class="highlight">Flutter</strong> as the frontend framework and <strong
+                                    class="highlight">Firebase</strong> as the backend. This application is designed for
+                                queue management in dental clinics, allowing patients to register online, view doctors'
+                                schedules, and receive notifications about their queue status.
                             </p>
                             <p>
-                                Dengan integrasi <strong class="highlight">Firebase Authentication</strong>, <strong
-                                    class="highlight">Realtime Database</strong>,
-                                dan <strong class="highlight">Push Notifications</strong>, aplikasi memastikan data selalu
-                                sinkron dan up-to-date.
+                                With the integration of <strong class="highlight">Firebase Authentication</strong>, <strong
+                                    class="highlight">Realtime Database</strong>, and <strong class="highlight">Push
+                                    Notifications</strong>, the app ensures data is always synchronized and up-to-date.
                             </p>
                         </div>
+
                         <div class="portfolio-info" data-aos="fade-up" data-aos-delay="300">
                             <h3>Project Information</h3>
                             <ul>

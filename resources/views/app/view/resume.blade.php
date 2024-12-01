@@ -26,12 +26,13 @@
 
                         <div class="resume-item pb-0">
                             <h4>Asep Saefuddin Zuhri</h4>
-                            <p><em>Fresh graduate Teknik Informatika dengan pengalaman mengembangkan aplikasi menggunakan
-                                    Flutter, Laravel. Aktif berorganisasi dengan kemampuan komunikasi, kerja
-                                    tim, dan kepemimpinan yang baik. Berkomitmen untuk menciptakan solusi teknologi yang
-                                    inovatif dan berfokus pada pengalaman pengguna.</em></p>
+                            <p>A fresh graduate in Information Technology with experience in developing applications
+                                using Flutter and Laravel. Actively participated in organizations, honing skills in
+                                communication, teamwork, and leadership. Committed to creating innovative technology
+                                solutions focused
+                                on user experience.</p>
                             <ul>
-                                <li>Indramayu, Jawa Barat</li>
+                                <li>Indramayu, West Java</li>
                                 <li>089636505062</li>
                                 <li>asepsj07@gmail.com</li>
                             </ul>
@@ -39,12 +40,12 @@
 
                         <h3 class="resume-title">Education</h3>
                         <div class="resume-item">
-                            <h4>Diploma III Teknik Informatika</h4>
+                            <h4>Diploma III in Information Technology</h4>
                             <h5>2021 - 2024</h5>
                             <p><em>Politeknik Negeri Indramayu, Indramayu</em></p>
-                            <p>IPK: 3.44. Selama perkuliahan, aktif dalam organisasi yang mengasah kemampuan komunikasi,
-                                kerja tim, dan kepemimpinan. Mengembangkan beberapa proyek berbasis mobile menggunakan
-                                Flutter, Laravel, dan Firebase.</p>
+                            <p>GPA: 3.44. Actively participated in organizations, honing skills in communication, teamwork,
+                                and leadership. Developed several mobile-based projects using Flutter, Laravel, and
+                                Firebase.</p>
                         </div><!-- End Resume Item -->
                     </div>
 
@@ -52,43 +53,42 @@
                         <h3 class="resume-title">Professional Experience</h3>
                         <div class="resume-item pb-0">
                             <h4>Intern Programmer</h4>
-                            <h5>6 Bulan (Januari 2023 - Juni 2023)</h5>
+                            <h5>6 Months (January 2023 - June 2023)</h5>
                             <p><em>Authentic Guard, Indramayu</em></p>
                             <ul>
-                                <li>Bertanggung jawab mengembangkan dan memelihara aplikasi mobile menggunakan Flutter
-                                    sesuai kebutuhan perusahaan.</li>
-                                <li>Berkoordinasi dengan tim untuk menerapkan desain UI/UX yang responsif dan ramah
-                                    pengguna.</li>
-                                <li>Melakukan integrasi Firebase, termasuk Realtime Database dan Authentication untuk
-                                    pengelolaan data secara real-time.</li>
-                                <li>Berperan dalam pengujian dan debugging aplikasi untuk memastikan kualitas dan performa
-                                    optimal.</li>
+                                <li>Responsible for developing and maintaining mobile applications using Flutter based on
+                                    company needs.</li>
+                                <li>Collaborated with the team to implement responsive and user-friendly UI/UX designs.</li>
+                                <li>Integrated Firebase, including Realtime Database and Authentication, for real-time data
+                                    management.</li>
+                                <li>Participated in application testing and debugging to ensure optimal quality and
+                                    performance.</li>
                             </ul>
                         </div><!-- End Resume Item -->
 
                         <h3 class="resume-title">Organizational Experience</h3>
                         <div class="resume-item">
-                            <h4>Humas Internal</h4>
+                            <h4>Internal Public Relations</h4>
                             <h5>2022 - 2023</h5>
                             <p><em>Forum Mahasiswa Bidikmisi/KIP-Kuliah, Politeknik Negeri Indramayu</em></p>
                             <ul>
-                                <li>Menjalin komunikasi efektif dengan mahasiswa penerima beasiswa Bidikmisi/KIP-Kuliah.
+                                <li>Established effective communication with Bidikmisi/KIP-Kuliah scholarship recipients.
                                 </li>
-                                <li>Mengelola penyebaran informasi internal terkait program beasiswa dan kegiatan kampus.
-                                </li>
-                                <li>Berperan aktif dalam penyelenggaraan acara dan kegiatan sosial bagi mahasiswa penerima
-                                    beasiswa.</li>
+                                <li>Managed the dissemination of internal information regarding scholarship programs and
+                                    campus activities.</li>
+                                <li>Actively participated in organizing events and social activities for scholarship
+                                    recipients.</li>
                             </ul>
                         </div><!-- End Resume Item -->
 
                         <div class="resume-item">
-                            <h4>Humas Eksternal</h4>
+                            <h4>External Public Relations</h4>
                             <h5>2022 - 2023</h5>
                             <p><em>Himpunan Mahasiswa Teknik Informatika, Politeknik Negeri Indramayu</em></p>
                             <ul>
-                                <li>Berperan sebagai penghubung antara organisasi kampus dan pihak eksternal.</li>
-                                <li>Menjalin kerjasama dengan perusahaan dan instansi terkait untuk mendukung kegiatan
-                                    Himpunan Mahasiswa.</li>
+                                <li>Acted as a liaison between campus organizations and external parties.</li>
+                                <li>Established collaborations with companies and institutions to support Student
+                                    Association activities.</li>
                             </ul>
                         </div><!-- End Resume Item -->
                     </div>

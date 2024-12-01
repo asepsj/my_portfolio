@@ -58,27 +58,26 @@
                         <div class="portfolio-description" data-aos="fade-up" data-aos-delay="200">
                             <h2 class="about-title">My Portfolio</h2>
                             <p>
-                                Proyek <strong class="highlight">My Portfolio</strong> adalah sebuah platform web yang saya
-                                rancang untuk menampilkan portofolio saya. Website ini mencakup deskripsi mendalam untuk
-                                setiap proyek yang saya kerjakan, dilengkapi dengan galeri visual yang mendukung presentasi
-                                karya saya. Dibangun menggunakan <strong class="highlight">Laravel</strong>, proyek ini
-                                bertujuan untuk merepresentasikan diri saya dan keahlian saya dalam pengembangan web. Dengan
-                                antarmuka yang responsif, website ini dirancang agar dapat memberikan pengalaman tampilan
-                                yang optimal di berbagai perangkat.
+                                The <strong class="highlight">My Portfolio</strong> project is a web platform I designed to
+                                showcase my portfolio. This website includes detailed descriptions of each project I have
+                                worked on, supported by a visual gallery to enhance the presentation of my work. Built using
+                                <strong class="highlight">Laravel</strong>, this project aims to represent myself and my
+                                expertise in web development. With a responsive interface, the website is designed to
+                                provide an optimal viewing experience across various devices.
                             </p>
                         </div>
                         <div class="portfolio-info" data-aos="fade-up" data-aos-delay="300">
-                            <h3>Informasi Proyek</h3>
+                            <h3>Project Information</h3>
                             <ul>
-                                <li><strong>Kategori</strong>: Web Application</li>
-                                <li><strong>Repository Proyek</strong>: <a
+                                <li><strong>Category</strong>: Web Application</li>
+                                <li><strong>Project Repository</strong>: <a
                                         href="https://github.com/asepsj/my_portfolio">https://github.com/asepsj/my_portfolio</a>
                                 </li>
                                 <li>
-                                    <strong>Teknologi yang Digunakan</strong>:
+                                    <strong>Technologies Used</strong>:
                                     <ul>
                                         <li>Laravel</li>
-                                        <li>HTML, CSS, dan JavaScript</li>
+                                        <li>HTML, CSS, and JavaScript</li>
                                         <li>Bootstrap 5</li>
                                     </ul>
                                 </li>
