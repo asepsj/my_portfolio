@@ -25,7 +25,7 @@
                     <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                             <div class="portfolio-content h-100">
-                                <img src="{{ asset('storage/img/my_portofolio1.png') }}" class="img-fluid" alt="">
+                                <img src="{{ asset('assets/img/portfolio/my_portofolio1.png') }}" class="img-fluid" alt="">
                                 <div class="portfolio-info">
                                     <h4>My Portfolio</h4>
                                     <a href="{{ url('/myprojects/myportfolio') }}" title="More Details"
@@ -36,7 +36,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                             <div class="portfolio-content h-100">
-                                <img src="{{ asset('storage/img/giku1.png') }}" class="img-fluid" alt="">
+                                <img src="{{ asset('assets/img/portfolio/giku1.png') }}" class="img-fluid" alt="">
                                 <div class="portfolio-info">
                                     <h4>Giku App</h4>
                                     <a href="{{ url('/myprojects/gikuapp') }}" title="More Details" class="details-link"><i
@@ -47,7 +47,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                             <div class="portfolio-content h-100">
-                                <img src="{{ asset('storage/img/admin_giku1.png') }}" class="img-fluid" alt="">
+                                <img src="{{ asset('assets/img/portfolio/admin_giku1.png') }}" class="img-fluid" alt="">
                                 <div class="portfolio-info">
                                     <h4>Admin Giku</h4>
                                     <a href="{{ url('/myprojects/admingiku') }}" title="More Details"
@@ -58,7 +58,7 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                             <div class="portfolio-content h-100">
-                                <img src="{{ asset('storage/img/webdesa1.png') }}" class="img-fluid" alt="">
+                                <img src="{{ asset('assets/img/portfolio/webdesa1.png') }}" class="img-fluid" alt="">
                                 <div class="portfolio-info">
                                     <h4>Web Desa</h4>
                                     <a href="{{ url('/myprojects/webdesa') }}" title="More Details" class="details-link"><i

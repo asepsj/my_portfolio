@@ -25,13 +25,13 @@
                         <div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="{{ asset('storage/img/giku1.png') }}" class="d-block w-100" alt="Image 1">
+                                    <img src="{{ asset('assets/img/portfolio/giku1.png') }}" class="d-block w-100" alt="Image 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="{{ asset('storage/img/giku2.png') }}" class="d-block w-100" alt="Image 2">
+                                    <img src="{{ asset('assets/img/portfolio/giku2.png') }}" class="d-block w-100" alt="Image 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="{{ asset('storage/img/giku3.png') }}" class="d-block w-100" alt="Image 3">
+                                    <img src="{{ asset('assets/img/portfolio/giku3.png') }}" class="d-block w-100" alt="Image 3">
                                 </div>
                             </div>
                             <!-- Controls -->
