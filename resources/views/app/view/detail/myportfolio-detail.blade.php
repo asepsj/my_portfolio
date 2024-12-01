@@ -58,12 +58,13 @@
                         <div class="portfolio-description" data-aos="fade-up" data-aos-delay="200">
                             <h2 class="about-title">My Portfolio</h2>
                             <p>
-                                Proyek <strong class="highlight">My Portfolio</strong> adalah platform web yang dirancang
-                                untuk menampilkan proyek-proyek saya, termasuk detail teknologi yang digunakan, deskripsi
-                                setiap proyek, serta galeri visual. Dibangun menggunakan<strong class="highlight">
-                                    Laravel</strong>, proyek ini saya buat secara khusus untuk merepresentasikan diri saya
-                                dan karya-karya saya. Dengan antarmuka yang responsif, website ini memastikan tampilan
-                                optimal di berbagai perangkat.
+                                Proyek <strong class="highlight">My Portfolio</strong> adalah sebuah platform web yang saya
+                                rancang untuk menampilkan portofolio saya. Website ini mencakup deskripsi mendalam untuk
+                                setiap proyek yang saya kerjakan, dilengkapi dengan galeri visual yang mendukung presentasi
+                                karya saya. Dibangun menggunakan <strong class="highlight">Laravel</strong>, proyek ini
+                                bertujuan untuk merepresentasikan diri saya dan keahlian saya dalam pengembangan web. Dengan
+                                antarmuka yang responsif, website ini dirancang agar dapat memberikan pengalaman tampilan
+                                yang optimal di berbagai perangkat.
                             </p>
                         </div>
                         <div class="portfolio-info" data-aos="fade-up" data-aos-delay="300">
@@ -71,7 +72,7 @@
                             <ul>
                                 <li><strong>Kategori</strong>: Web Application</li>
                                 <li><strong>Repository Proyek</strong>: <a
-                                        href="https://github.com/asepsj/MyPortfolio">https://github.com/asepsj/MyPortfolio</a>
+                                        href="https://github.com/asepsj/my_portfolio">https://github.com/asepsj/my_portfolio</a>
                                 </li>
                                 <li>
                                     <strong>Teknologi yang Digunakan</strong>:

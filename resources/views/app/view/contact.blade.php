@@ -24,7 +24,7 @@
                         <div class="info-item d-flex align-items-start" data-aos="fade-up" data-aos-delay="200">
                             <i class="icon bi bi-geo-alt"></i>
                             <div>
-                                <h3>My Address</h3>
+                                <h3>Address</h3>
                                 <p>Indramayu, Jawa Barat</p>
                             </div>
                         </div>
@@ -33,7 +33,7 @@
                         <div class="info-item d-flex align-items-start" data-aos="fade-up" data-aos-delay="300">
                             <i class="icon bi bi-telephone"></i>
                             <div>
-                                <h3>My Number Phone</h3>
+                                <h3>Phone</h3>
                                 <a href="https://api.whatsapp.com/send?phone=6289636505062" target="_blank">
                                     089636505062
                                 </a>
@@ -44,7 +44,7 @@
                         <div class="info-item d-flex align-items-start" data-aos="fade-up" data-aos-delay="400">
                             <i class="icon bi bi-envelope"></i>
                             <div>
-                                <h3>My Email</h3>
+                                <h3>Email</h3>
                                 <a href="mailto:asepsj07@gmail.com" target="_blank">asepsj07@gmail.com</a>
                             </div>
                         </div>
@@ -54,10 +54,10 @@
                             <div>
                                 <h3>Social Profiles</h3>
                                 <div class="social-links">
-                                    <a href="#"><i class="bi bi-twitter"></i></a>
-                                    <a href="#"><i class="bi bi-facebook"></i></a>
-                                    <a href="#"><i class="bi bi-instagram"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.linkedin.com/in/asep-saefuddin-zuhri-a9b6492b0/" target="_blank"
+                                        rel="noopener noreferrer">
+                                        <i class="bi bi-linkedin"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
