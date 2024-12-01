@@ -25,13 +25,16 @@
                         <div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="{{ asset('assets/img/portfolio/giku1.png') }}" class="d-block w-100" alt="Image 1">
+                                    <img src="{{ asset('assets/img/portfolio/giku1.png') }}" class="d-block w-100"
+                                        alt="Image 1" loading="lazy">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="{{ asset('assets/img/portfolio/giku2.png') }}" class="d-block w-100" alt="Image 2">
+                                    <img src="{{ asset('assets/img/portfolio/giku2.png') }}" class="d-block w-100"
+                                        alt="Image 2" loading="lazy">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="{{ asset('assets/img/portfolio/giku3.png') }}" class="d-block w-100" alt="Image 3">
+                                    <img src="{{ asset('assets/img/portfolio/giku3.png') }}" class="d-block w-100"
+                                        alt="Image 3" loading="lazy">
                                 </div>
                             </div>
                             <!-- Controls -->
@@ -79,7 +82,9 @@
                             <h3>Project Information</h3>
                             <ul>
                                 <li><strong>Category</strong>: Mobile Application</li>
-                                <li><strong>Project Repository</strong>: <a href="https://github.com/asepsj/GikuProject">https://github.com/asepsj/GikuProject</a></li>
+                                <li><strong>Project Repository</strong>: <a
+                                        href="https://github.com/asepsj/GikuProject">https://github.com/asepsj/GikuProject</a>
+                                </li>
                                 <li>
                                     <strong>Technologies Used</strong>:
                                     <ul>
