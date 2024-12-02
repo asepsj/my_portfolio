@@ -2,7 +2,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
         <a href="{{ url('/') }}" class="logo d-flex align-items-center">
-            <img src="{{ asset('storage/img/logo/logo.png') }}" alt="" loading="lazy">
+            <img src="{{ asset('assets/img/logo/logo.png') }}" alt="" loading="lazy">
             <h1 class="sitename">My Portfolio</h1>
         </a>
 

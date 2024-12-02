@@ -8,7 +8,7 @@
                 <div class="hero-content">
 
                     <div class="profile-image mx-5">
-                        <img src="{{ asset('storage/img/foto/foto1.png') }}" alt="Profile Picture" loading="lazy">
+                        <img src="{{ asset('assets/img/foto/foto1.png') }}" alt="Profile Picture" loading="lazy">
                     </div>
 
                     <div class="hero-text">
