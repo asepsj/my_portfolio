@@ -9,7 +9,7 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/img/logo/logo.png') }}" rel="icon">
+    <link href="{{ asset('storage/img/logo/logo.png') }}" rel="icon">
     <link href="{{ asset('storage/img/logo/logo.png') }}" rel="icon">
 
     <!-- Fonts -->
