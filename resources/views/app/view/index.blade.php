@@ -15,7 +15,7 @@
                         <h2>Asep</h2>
                         <h2>Saefuddin Zuhri</h2>
                         <p>I'm <span class="typed"
-                                data-typed-items="Web Developer, Mobile Developer, Full Stack Developer, Programmer">Web Developer</span><span
+                                data-typed-items="Web Developer, Mobile Developer">Web Developer</span><span
                                 class="typed-cursor typed-cursor--blink"></span></p>
                         <a href="{{ url('/about') }}" class="btn-hero">Learn More About Me</a>
                     </div>

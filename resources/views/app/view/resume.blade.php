@@ -53,8 +53,8 @@
                         <h3 class="resume-title">Professional Experience</h3>
                         <div class="resume-item pb-0">
                             <h4>Intern Programmer</h4>
-                            <h5>6 Months (January 2023 - June 2023)</h5>
-                            <p><em>Authentic Guard, Indramayu</em></p>
+                            <h5>6 Months (Jun 2023 - Nov 2023)</h5>
+                            <p><em>Authentic Guard Technology, Bandung</em></p>
                             <ul>
                                 <li>Responsible for developing and maintaining mobile applications using Flutter based on
                                     company needs.</li>
