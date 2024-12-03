@@ -8,15 +8,13 @@
                 <div class="hero-content">
 
                     <div class="profile-image mx-5">
-                        <img src="{{ asset('assets/img/foto/foto1.png') }}" alt="Profile Picture" loading="lazy">
+                        <img src="{{ asset('assets/img/foto/foto1.webp') }}" alt="Profile Picture" loading="lazy">
                     </div>
 
                     <div class="hero-text">
                         <h2>Asep</h2>
                         <h2>Saefuddin Zuhri</h2>
-                        <p>I'm <span class="typed"
-                                data-typed-items="Web Developer, Mobile Developer">Web Developer</span><span
-                                class="typed-cursor typed-cursor--blink"></span></p>
+                        <p>I'm <span class="typed" data-typed-items="Web Developer, Mobile Developer"></span></p>
                         <a href="{{ url('/about') }}" class="btn-hero">Learn More About Me</a>
                     </div>
 

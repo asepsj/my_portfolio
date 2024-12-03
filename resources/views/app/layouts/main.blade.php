@@ -9,8 +9,8 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/img/logo/logo.png') }}" rel="icon">
-    <link href="{{ asset('assets/img/logo/logo.png') }}" rel="icon">
+    <link href="{{ asset('assets/img/logo/logo.webp') }}" rel="icon">
+    <link href="{{ asset('assets/img/logo/logo.webp') }}" rel="icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -72,6 +72,20 @@
 
     <!-- Main JS File -->
     <script src="{{ asset('assets/js/main.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const typed = new Typed('.typed', {
+                strings: document.querySelector('.typed').getAttribute('data-typed-items').split(','),
+                typeSpeed: 70,
+                backSpeed: 30,
+                backDelay: 500,
+                startDelay: 0,
+                loop: true
+            });
+        });
+    </script>
 
     <!-- JavaScript Function Form Contact-->
     <script>

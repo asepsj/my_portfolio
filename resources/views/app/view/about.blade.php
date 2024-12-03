@@ -21,7 +21,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-4">
                         <div class="img-container">
-                            <img src="{{ asset('assets/img/foto/foto2.jpg') }}" class="img-fluid" alt="Profile Picture"
+                            <img src="{{ asset('assets/img/foto/foto2.webp') }}" class="img-fluid" alt="Profile Picture"
                                 loading="lazy">
                         </div>
                     </div>
