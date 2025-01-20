@@ -34,7 +34,7 @@
                             <ul>
                                 <li>Indramayu, West Java</li>
                                 <li>089636505062</li>
-                                <li>asepsj07@gmail.com</li>
+                                <li>asepsj07@gmail.com || asepsaefuddinzuhri@gmail.com</li>
                             </ul>
                         </div><!-- End Resume Item -->
 
