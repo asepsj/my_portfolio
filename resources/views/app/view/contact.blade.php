@@ -46,7 +46,6 @@
                             <div>
                                 <h3>Email</h3>
                                 <a href="mailto:asepsj07@gmail.com" target="_blank">asepsj07@gmail.com</a><br>
-                                <a href="mailto:asepsaefuddinzuhri@gmail.com" target="_blank">asepsaefuddinzuhri@gmail.com</a>
                             </div>
                         </div>
 
