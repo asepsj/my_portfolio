@@ -14,7 +14,7 @@
                     <div class="hero-text">
                         <h2>Asep</h2>
                         <h2>Saefuddin Zuhri</h2>
-                        <p>I'm <span class="typed" data-typed-items="Web Developer, Mobile Developer"></span></p>
+                        <p>I'm <span class="typed" data-typed-items="fresh Graduate, Web Developer, Mobile Developer"></span></p>
                         <a href="{{ url('/about') }}" class="btn-hero">Learn More About Me</a>
                     </div>
 
