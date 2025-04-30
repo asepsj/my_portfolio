@@ -1,7 +1,7 @@
-<footer id="footer" class="footer bg-black py-4">
+<footer id="footer" class="footer py-4">
     <div class="container text-center">
         <!-- Nama Situs atau Portofolio -->
-        <h3 class="sitename">My Portfolio</h3>
+        <h3 class="sitename text-dark">My Portfolio</h3>
 
         <!-- Bagian Sosial Media -->
         {{-- <div class="social-links d-flex justify-content-center my-3">
@@ -13,13 +13,13 @@
         </div> --}}
 
         <!-- Copyright dan Informasi Tambahan -->
-        <div class="container">
+        <div class="container text-dark">
             <div class="copyright my-2">
                 <span>&copy; {{ date('Y') }}</span> <strong class="sitename">My Portfolio</strong>. Crafted with
                 dedication
             </div>
             <div class="credits">
-                Built by <a href="https://yourwebsite.com">Asep Saefuddin Zuhri</a>
+                Built by <a href="/">Asep Saefuddin Zuhri</a>
             </div>
         </div>
     </div>

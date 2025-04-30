@@ -17,13 +17,10 @@
 
         <!-- Resume Section -->
         <section id="resume" class="resume section">
-
             <div class="container">
-
                 <div class="row">
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                         <h3 class="resume-title">Summary</h3>
-
                         <div class="resume-item pb-0">
                             <h4>Asep Saefuddin Zuhri</h4>
                             <p>A fresh graduate in Information Technology with experience in developing applications
@@ -50,7 +47,7 @@
                     </div>
 
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-                        <h3 class="resume-title">Professional Experience</h3>
+                        <h3 class="resume-title">Work Experience</h3>
                         <div class="resume-item pb-0">
                             <h4>Intern Programmer</h4>
                             <h5>6 Months (Jun 2023 - Nov 2023)</h5>

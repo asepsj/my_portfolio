@@ -2,7 +2,6 @@
 
 @section('content')
     <main class="main">
-
         <!-- Page Title -->
         <div class="page-title" data-aos="fade-up" data-aos-delay="100">
             <nav class="breadcrumbs">
@@ -76,7 +75,7 @@
                                 <li>
                                     <strong>Technologies Used</strong>:
                                     <ul>
-                                        <li>Laravel</li>
+                                        <li>Laravel 12</li>
                                         <li>HTML, CSS, and JavaScript</li>
                                         <li>Bootstrap 5</li>
                                     </ul>

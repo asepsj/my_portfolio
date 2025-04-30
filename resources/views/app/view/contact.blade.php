@@ -3,7 +3,7 @@
 @section('content')
     <main class="main">
         <!-- Page Title -->
-        <div class="page-title" data-aos="fade-up" data-aos-delay="100">
+        {{-- <div class="page-title" data-aos="fade-up" data-aos-delay="100">
             <nav class="breadcrumbs">
                 <div class="container">
                     <ol>
@@ -12,13 +12,11 @@
                     </ol>
                 </div>
             </nav>
-        </div>
-
+        </div> --}}
         <!-- Contact Section -->
         <section id="contact" class="contact section">
             <div class="container" data-aos="fade-up" data-aos-delay="100">
                 <div class="row">
-
                     <!-- Info Section -->
                     <div class="col-lg-4">
                         <div class="info-item d-flex align-items-start" data-aos="fade-up" data-aos-delay="200">

@@ -87,7 +87,7 @@
                                 <li>
                                     <strong>Technologies Used</strong>:
                                     <ul>
-                                        <li>Laravel</li>
+                                        <li>Laravel 10</li>
                                         <li>Firebase Realtime Database</li>
                                         <li>Firebase Authentication</li>
                                         <li>Firebase Storage</li>
